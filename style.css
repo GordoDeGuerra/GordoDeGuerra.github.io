@@ -9,3 +9,6 @@ botao.addEventListener("click", function () {
     // Mostra um alerta na tela
     alert("Você clicou no botão!");
 });
+body {
+    background-color: bluepurple;
+}
